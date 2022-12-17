@@ -1,0 +1,64 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{cv} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,
+            urlcolor=black}
+
+\usepackage{bibentry}
+\nobibliography*
+
+
+\usepackage[normalem]{ulem}
+
+\usepackage{mhjeon_acronyms}
+
+\begin{document}
+
+% Address and name
+%------------------------------------------------------
+1, Gwanak-ro, Gwanak-gu, \hfill Revised \today \\ %\href{http://irap.kaist.ac.kr/$\sim$ayoung/}{http://irap.kaist.ac.kr/$\sim$ayoung/}\\
+Seoul, Republic of Korea \hfill \href{mailto:myunghwan.jeon.offl@gmail.com}{myunghwan.jeon.offl@gmail.com}\\
+%\hfill +82 (42)~$\cdot$~350~$\cdot$~3632\\
+
+\hfil{\namesize\bf Myung-Hwan Jeon}\hfil
+
+\vspace{-3mm}
+
+\input{src/education.tex}
+\input{src/positions.tex}
+\input{src/interest.tex}
+\input{src/pubs.tex}
+\input{src/awards.tex}
+\input{src/services.tex}
+\input{src/skill.tex}
+
+
+\bibliographystyle{plain}
+\nobibliography{src/bib}
+
+\vspace{0.5in}
+%\hfill Revised \today
+\end{document}
