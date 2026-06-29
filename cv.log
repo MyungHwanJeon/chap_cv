@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.15)  20 DEC 2023 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.15)  24 NOV 2025 18:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,74 +322,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
  []
 
 ) (./src/positions.tex
-Package acronym Info: Label `acro:RPM' newly defined as it shall be overridden
+Package acronym Info: Label `acro:RAIV' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
-Package acronym Info: Label `acro:ME' newly defined as it shall be overridden
-although it is yet undefined on input line 5.
-Package acronym Info: Label `acro:SNU' newly defined as it shall be overridden
+Package acronym Info: Label `acro:KIT' newly defined as it shall be overridden
 although it is yet undefined on input line 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
+Package acronym Info: Label `acro:KIMLAB' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+Package acronym Info: Label `acro:ECE' newly defined as it shall be overridden
+although it is yet undefined on input line 10.
+Package acronym Info: Label `acro:UIUC' newly defined as it shall be overridden
+although it is yet undefined on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
+Package acronym Info: Label `acro:RPM' newly defined as it shall be overridden
+although it is yet undefined on input line 15.
+Package acronym Info: Label `acro:ME' newly defined as it shall be overridden
+although it is yet undefined on input line 16.
+Package acronym Info: Label `acro:SNU' newly defined as it shall be overridden
+although it is yet undefined on input line 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-
- []
-
-Package acronym Info: Label `acro:CEE' newly defined as it shall be overridden
-although it is yet undefined on input line 20.
-Package acronym Info: Label `acro:KAIST' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
 Package acronym Info: Label `acro:CHIC' newly defined as it shall be overridden
-although it is yet undefined on input line 25.
+although it is yet undefined on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
 ) [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./src/interest.tex
-Package acronym Info: Label `acro:SLAM' newly defined as it shall be overridden
-although it is yet undefined on input line 2.
-) (./src/pubs.tex
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./src/pubs.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
- [2
 
-]) (./src/presentations.tex) (./src/awards.tex [3]) (./src/services.tex) (./src/skill.tex) (./cv.bbl) [4] (./cv.aux)
+Overfull \hbox (1.74887pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/10.95 Jeongyun Kim, Se-unghoon Jeong, Giseop Kim, \OT1/cmr/bx/n/10.95 Myung-Hwan Jeon\OT1/cmr/m/n/10.95 , Eu-nji Jun, Ay-oung Kim, \TRAN-
+ []
+
+[2
+
+]
+Package acronym Info: Label `acro:KAIST' newly defined as it shall be overridden
+although it is yet undefined on input line 58.
+) [3] (./src/presentations.tex) (./src/awards.tex) (./src/services.tex) (./cv.bbl) [4
+
+] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9652 strings out of 478268
- 150843 string characters out of 5846347
- 461140 words of memory out of 5000000
- 27716 multiletter control sequences out of 15000+600000
- 473705 words of font info for 43 fonts, out of 8000000 for 9000
+ 9663 strings out of 478268
+ 150936 string characters out of 5846347
+ 461758 words of memory out of 5000000
+ 27731 multiletter control sequences out of 15000+600000
+ 473364 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,5n,76p,616b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv.pdf (4 pages, 104350 bytes).
+ 70i,5n,76p,616b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on cv.pdf (4 pages, 86976 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
